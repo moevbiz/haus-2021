@@ -1,0 +1,22 @@
+{
+  "name": "haus-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moevbiz/haus-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moevbiz/haus-2021/issues"
+  },
+  "homepage": "https://github.com/moevbiz/haus-2021#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}

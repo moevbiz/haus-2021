@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+    background-image: url(../img/1.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: salmon;
+    font-size: 3rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+section {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    border: 2px solid;
+    background:transparent;
+    margin-right: 1rem;
+}
+
+.c-form__row {
+    display: flex;
+}
