@@ -18,5 +18,8 @@
   "homepage": "https://github.com/moevbiz/haus-2021#readme",
   "dependencies": {
     "parcel": "^2.0.0-beta.1"
+  },
+  "devDependencies": {
+    "parcel-reporter-static-files-copy": "^1.1.1"
   }
 }

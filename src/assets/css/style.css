@@ -45,4 +45,14 @@ input {
     text-align: center;
     border: 2px solid;
     background:transparent;
+    border-radius: 3px;
+}
+
+#lettergrid {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(2, minmax(75px, auto));
 }

@@ -1,4 +1,5 @@
-import {sub} from './chimp.js';
+import { sub } from './chimp.js';
+import { launchLetters } from './letters.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const nl = document.querySelector('#nlsub');
@@ -7,4 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
             sub(e);
         });
     };
+
+    launchLetters('#lettergrid');
 })

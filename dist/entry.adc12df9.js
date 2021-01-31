@@ -412,6 +412,8 @@ function hmrAcceptRun(bundle, id) {
 
 var _chimp = require("./chimp.js");
 
+var _letters = require("./letters.js");
+
 document.addEventListener('DOMContentLoaded', () => {
   const nl = document.querySelector('#nlsub');
 
@@ -422,8 +424,9 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   ;
+  (0, _letters.launchLetters)('#lettergrid');
 });
-},{"./chimp.js":"9e407cad8198d73697c6feedd7c40ed8"}],"9e407cad8198d73697c6feedd7c40ed8":[function(require,module,exports) {
+},{"./chimp.js":"9e407cad8198d73697c6feedd7c40ed8","./letters.js":"472760d90cefaa27b5d2e9417fab0617"}],"9e407cad8198d73697c6feedd7c40ed8":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -472,6 +475,32 @@ const sub = e => {
 };
 
 exports.sub = sub;
+},{}],"472760d90cefaa27b5d2e9417fab0617":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.launchLetters = void 0;
+const string = 'hauswien';
+const letters = string.split('');
+
+const file = (letter, i = 0) => {
+  return `./letters/${letter}/${i}.svg`;
+};
+
+const launchLetters = (gridElement = null) => {
+  gridElement = document.querySelector(gridElement);
+  gridElement.innerHTML = '';
+  letters.forEach(letter => {
+    let url = file(letter, Math.floor(Math.random() * 2) + 1);
+    let svg = document.createElement('img');
+    svg.src = url;
+    gridElement.appendChild(svg);
+  });
+};
+
+exports.launchLetters = launchLetters;
 },{}]},{},["118cbcc1114249476f0d0c6701f9fd1f","14ab7a16ee7ee457e0cb6609975b81c6"], null)
 
 //# sourceMappingURL=entry.adc12df9.js.map
