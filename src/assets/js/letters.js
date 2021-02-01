@@ -4,7 +4,7 @@ const numberOfFiles = 4;
 const letters = string.split('');
 
 const file = (letter, i = 0) => {
-    return `./docs/letters/${letter}/${i}.svg`;
+    return `./letters/${letter}/${i}.svg`;
 }
 
 export const launchLetters = (gridElement = null) => {
