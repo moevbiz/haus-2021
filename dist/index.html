@@ -20,15 +20,17 @@
     </div>
     <main class="main">
         <section id="headline">
-            <h1>Haus Wien, September 2021</h1>
+            <h1>Wien, September 2021</h1>
         </section>
         <section id="newsletter">
-            <form id="nlsub" class="c-form newsletter" action="https://wien.us8.list-manage.com/subscribe/post?u=f8cf60af236f174387171d5f1&amp;id=064065f168&amp;c=callback" method="post" target="_blank" novalidate="">
+            <form id="nlsub" class="c-form newsletter" action="https://wien.us8.list-manage.com/subscribe/post?u=f8cf60af236f174387171d5f1&amp;id=064065f168&amp;c=callback" method="post" target="_blank">
                 <div class="c-form__row">
                     <div id="js-form-inputs">
-                        <input class="c-form__input c-form__input--grow" type="email" placeholder="name@example.com" name="EMAIL" id="mce-EMAIL" value="">
+                        <label class="input-sizer">
+                            <input class="c-form__input" type="email" name="EMAIL" id="mce-EMAIL" value="" oninput="this.parentNode.dataset.value = this.value" required="">
+                        </label>
                     </div>
-                    <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="c-form__input">Subscribe</button>
+                    <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="c-form__input">Subscribe to Newsletter</button>
                 </div>
             
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" id="js-validate-robot" name="b_8d7d053576f22631489f1987e_32c3d6d6cf" tabindex="-1" value=""></div>
