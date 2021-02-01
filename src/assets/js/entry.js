@@ -9,26 +9,32 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
 
-    launchLetters('#lettergrid');
-
     const grid = document.querySelector('#lettergrid');
 
     const params = new URL(window.location).searchParams;
     const options = Object.fromEntries(params);
 
+    launchLetters('#lettergrid', options.interval);
+
     if (options.shareable) {
         document.querySelector('main').style.display = 'none';
-        grid.style.maxWidth = '500px';
+    }
+
+    if (options.loop) {
+        console.log('loopin');
+        setInterval(() => {launchLetters('#lettergrid')}, options.loop);
     }
 
     if (options.layout === 'square') {
         grid.style.gridTemplateRows = 'repeat(2, minmax(50%, auto))';
         grid.style.height = '100vw';
+        grid.style.maxWidth = '500px';
         grid.style.maxHeight = '500px';
     }
 
     if (options.layout === 'stretch') {
         grid.style.gridTemplateRows = 'repeat(2, minmax(50vh, auto))';
+        grid.style.maxWidth = '500px';
         grid.querySelectorAll('img').forEach((img, i) => {
             console.log(i);
             if (i >= 4) {
