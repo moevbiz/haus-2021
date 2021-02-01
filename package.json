@@ -5,6 +5,7 @@
   "main": "./src/index.html",
   "scripts": {
     "dev": "parcel src/index.html --dist-dir ./docs/ --target default --public-url ./",
+    "build": "npm run clean && parcel build src/index.html --dist-dir ./docs/ --target default --public-url ./",
     "clean": "rm -rf dist && rm -rf docs && rm -rf .parcel-cache"
   },
   "targets": {
