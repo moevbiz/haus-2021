@@ -28,7 +28,6 @@ main {
   align-items: center;
   height: 100%;
   position: fixed;
-  mix-blend-mode: difference;
 }
 
 img {
