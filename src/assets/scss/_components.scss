@@ -10,7 +10,7 @@
     position: fixed;
     z-index: -10;
 
-    transition: all .4s linear;
+    transition: filter .4s linear;
 
     &.faded {
         filter: blur(4vw);
