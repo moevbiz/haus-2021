@@ -10,7 +10,8 @@
   },
   "scripts": {
     "dev": "ELEVENTY_ENV=development npx @11ty/eleventy --serve --quiet & mix watch",
-    "production": "mix --production && npx @11ty/eleventy"
+    "production": "mix --production && npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
   },
   "author": "",
   "license": "ISC",

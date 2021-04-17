@@ -15,7 +15,7 @@ Haus ist ein kollaborativ organisiertes, nicht-kommerzielles Ausstellungsformat 
 
 Das Projekt sieht sich in der Tradition von non-profit und artist-run Ausstellungsräumen der unabhängigen Szene – den Off-Spaces – deren flexible und intime Arbeitsweise von flachen Organisationsstrukturen und kollaborativen Ansätzen geprägt sind. Ziel des Projektes ist es, einen niederschwelligen Zugang zu zeitgenössischer Kunst und ihren Diskursen zu ermöglichen.
 
-Nach einer erfolgreichen ersten Edition des Projekts im September 2020, zu der wir über 1.000 Besucher*innen sowie rund 50 Teilnehmer*innen aus 15 Ländern willkommen heißen durften, freuen wir uns, heuer die zweite Edition von Haus umzusetzen. Wie im Vorjahr können sich Teilnehmer:innen in einem Open Call für Projekte bewerben. 
+Nach einer erfolgreichen ersten Edition des Projekts im September 2020, zu der wir über 1.000 Besucher:innen sowie rund 50 Teilnehmer:innen aus 15 Ländern willkommen heißen durften, freuen wir uns, heuer die zweite Edition von Haus umzusetzen. Wie im Vorjahr können sich Teilnehmer:innen in einem Open Call für Projekte bewerben. 
 
 ## Team
 
