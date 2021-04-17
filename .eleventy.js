@@ -2,6 +2,7 @@ const moment = require("moment");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const lazy_loading = require('markdown-it-image-lazy-loading');
 const pageAssetsPlugin = require('eleventy-plugin-page-assets');
 
 
@@ -42,9 +43,11 @@ module.exports = function(eleventyConfig) {
         breaks: true,
         linkify: true
     })
-      .use(markdownItAnchor, {
-        permalink: false,
-      });
+    .use(markdownItAnchor, {
+      permalink: false,
+    })
+    .use(lazy_loading);
+    
     eleventyConfig.setLibrary("md", markdownLibrary);
 
     // copy css folder
