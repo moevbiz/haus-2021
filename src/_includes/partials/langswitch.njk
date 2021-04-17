@@ -1,0 +1,26 @@
+<nav class="c-nav c-lang-nav" id="langs">
+{% for lgg in site.languages %}
+  {% if loop.first %}<ul class="c-nav__list">{% endif %}
+
+  {# set translatedUrl to the homepage of that language by default #}
+  {% set translatedUrl = lgg.url %}
+
+  {# set current language class #}
+  {% set activeClass = "is-active" if lgg.code == locale else "" %}
+
+  {# loop through all the content of the site #}
+  {% for item in collections.all %}
+    {# check matches #}
+    {% if item.data.translationKey == translationKey and item.data.locale == lgg.code %}
+      {% set translatedUrl = item.url %}
+    {% endif %}
+  {% endfor%}
+  <a class="c-nav__link u-nodeco" href="{{ translatedUrl }}">
+    <li class="c-nav__element is-menu-link {{ activeClass }}">
+      {{ lgg.code }}
+    </li>
+  </a>
+
+  {% if loop.last %}</ul>{% endif %}
+{% endfor %}
+</nav>

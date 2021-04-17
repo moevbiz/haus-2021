@@ -1,0 +1,15 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+    {% if toc %}
+    <div class="js-toc"></div>
+    {% else %}
+    <div clas="notoc"></div>
+    {% endif %}
+    <div class="t-text-body">
+        <img class="c-headline-image" src="{{ headlineImage }}">
+        <article class="article">
+        {{ content | safe }}
+        </article>
+    </div>
+{% endblock %}

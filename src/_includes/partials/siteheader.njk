@@ -1,0 +1,14 @@
+<header class="header" role="banner">
+  <span class="u-visually-hidden">{{site[locale].metaTitle}} : {{pageTitle}}</span>
+  <div class="c-nav c-menu-button-container">
+    <div class="c-nav__list">
+      <button class="c-menu-button" title="Toggle Menu">
+        <i class="la la-bars"></i>
+        <i class="la la-times"></i>
+      </button>
+    </div>
+  </div>
+  {% include "partials/nav.njk" %}
+  {% include "partials/langswitch.njk" %}
+</header>
+<div id="lettergrid"></div>

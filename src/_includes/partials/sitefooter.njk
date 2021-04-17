@@ -1,0 +1,41 @@
+<footer class="c-footer">
+    <div>
+        <section id="hausl">
+            <a href="{{ "/" if locale=='en' else "/" + locale + "/" }}">
+                <img src="/assets/images/HAUSLblack.svg" alt="">
+            </a>
+        </section>
+    </div>
+    <div>
+    <section id="newsletter">
+        <p>{{ site[locale].stayUpdated}}:</p>
+        <form id="nlsub" class="c-form newsletter" action="https://wien.us8.list-manage.com/subscribe/post?u=f8cf60af236f174387171d5f1&amp;id=064065f168&amp;c=callback" method="post" target="_blank">
+            <div class="c-form__row">
+                <div id="js-form-inputs">
+                    <label class="u-input-sizer">
+                        <input class="c-form__input c-button" type="email" name="EMAIL" id="mce-EMAIL" value="" placeholder="mail@example.com" onInput="this.parentNode.dataset.value = this.value" required>
+                    </label>
+                </div>
+                <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="c-form__input c-button">
+                    {{ site[locale].subscribe }}
+                </button>
+            </div>
+        
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" id="js-validate-robot" name="b_8d7d053576f22631489f1987e_32c3d6d6cf" tabindex="-1" value=""></div>
+        
+            <p id="js-subscribe-response"></p>
+        </form>
+    </section>
+    <section id="social">
+        {{ site[locale].contact }}:<br>
+        <a href="https://www.facebook.com/das.haus.wien">Facebook</a>
+        <a href="https://www.instagram.com/haus.wien/">Instagram</a>
+        <a href="mailto:contact@haus.wien">E-Mail</a>
+    </section>
+    <section id="legal">
+        <a href="/privacy">Privacy</a>
+    </section>
+    </div>
+    <div>
+    </div>
+</footer>

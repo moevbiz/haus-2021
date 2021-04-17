@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ site[locale].metaTitle }}</title>
+  <meta name="description" content="{{ site[locale].metaDescription }}"/>
+  <script>document.documentElement.classList.remove('no-js');</script>
+  <script src="/assets/js/build.js" defer></script>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏠</text></svg>">
+
+  <!-- open graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ site[locale].metaTitle }}">
+  <meta property="og:image" content="{{site.metaImage}}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:description" content="{{ site[locale].metaDescription }}">
+
+  <!-- twitter -->
+  <meta name="twitter:card" content="summary">
+  {# <meta name="twitter:site" content="{{ site.twitter }}"> #}
+  <meta name="twitter:title" content="{{ site[locale].metaTitle }}">
+  <meta name="twitter:description" content="{{ site[locale].metaDescription }}">
+  <meta name="twitter:image" content="{{site.metaImage}}">
+</head>
+<body {% if templateClass %} class="{{ templateClass }}"{% endif %}>
+  {% include "partials/siteheader.njk" %}
+  <main id="swup" class="main transition-fade" data-layout="{{ layout }}">
+    <div class="l-inner-content">
+      {% block content %}{% endblock %}
+    </div>
+    {% include "partials/sitefooter.njk" %}
+  </main>
+</body>
+</html>

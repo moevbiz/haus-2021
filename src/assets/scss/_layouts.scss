@@ -1,0 +1,20 @@
+.l-inner-content {
+    padding: 0 1rem;
+    flex: 1 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    @media (max-width: $bp-mob) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.l-full-center-fix {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

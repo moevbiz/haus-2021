@@ -1,0 +1,3 @@
+{
+    "permalink": "{{ url }}{{ title | slug }}/index.html"
+}

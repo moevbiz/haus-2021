@@ -1,0 +1,15 @@
+.p-home {
+    &-center-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+
+        &__element {
+            h1 {
+                margin-left: 0;
+            }
+            margin: 5rem 0;
+        }
+    }
+}

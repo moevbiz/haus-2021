@@ -1,0 +1,47 @@
+.transition-fade {
+    transition: 0.2s;
+    opacity: 1;
+  }
+  
+  html.is-animating .transition-fade {
+    opacity: 0;
+  }
+
+.js-toc {
+    left: 0;
+    margin-bottom: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: $black;
+    letter-spacing: 0;
+    padding-right: 1rem;
+    * {
+        text-decoration: none;
+    }
+    @media (max-width: $bp-mob) {
+        display: none;
+    }
+    .toc-list {
+      // margin-top: 150px;
+      position: sticky;
+      top: 200px;
+      max-width: 200px;
+
+      // &-item {
+      //   transition: all .2s linear;
+      // }
+
+      .is-active-li {
+        // margin: .8rem 0;
+        // transform: scale(1.1);
+        transform-origin: left;
+      }
+
+      &-item a {
+        
+      }
+    }
+}
+
+.toc-link::before {
+    display: none;
+}
