@@ -12,6 +12,12 @@ eleventyNavigation:
 
 ## Open Call
 
+----
+
+**⚠️ The open call has ended.**
+
+----
+
 Haus is pleased to announce the open call for its second edition which will be taking place in Vienna from August 30 – September 5, 2021.
 
 The open call is directed towards artists, curators, researchers, commercial galleries, and institutions, as well as non-profit, artist-run, or self-organized spaces and initiatives. 

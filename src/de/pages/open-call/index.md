@@ -11,6 +11,12 @@ eleventyNavigation:
 
 ## Open Call
 
+----
+
+**⚠️ Der Open Call ist bereits vorbei.**
+
+----
+
 Wir freuen uns, den Open Call zur Teilnahme an der zweiten Ausgabe von Haus bekannt zu geben, welche von 30. August bis 5. September in Wien stattfinden wird.
 
 Der Open Call richtet sich an Künstler:innen, Kurator:innen, Researcher:innen, kommerzielle Galerien und Institutionen sowie artist-run und selbstorganisierte Räume und Projekte.
