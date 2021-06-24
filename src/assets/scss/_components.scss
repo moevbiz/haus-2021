@@ -29,14 +29,67 @@
     transform: translate(-50%, -50%);
     padding: .5rem;
 
-    & img:nth-child(-n+4) {  
-        align-self: end;
+    & div {
+        position: relative;
+        filter: none;
+        &.is-animating {
+            filter: url(#threshold);
+        }
+    }
+
+    img {
+        position: absolute;
+
+        &.fading-in {
+            animation: fadeIn 1s ease-out;
+            pointer-events: none;
+        }
+        &.fading-out {
+            animation: fadeOut 1s ease-in;
+            pointer-events: none;
+        }
+    }
+
+    @keyframes fadeIn {
+        0% {
+            opacity: 0;
+            filter: blur(.5em);
+            transform: scale(1);
+        }
+        25% {
+            opacity: 0;
+            filter: blur(.5em);
+            transform: scale(1);
+        }
+        100% {
+            opacity: 1;
+            filter: blur(0);
+            transform: scale(1);
+        }
+    }
+
+    @keyframes fadeOut {
+        0% {
+            opacity: 1;
+            filter: blur(0);
+            transform: scale(1);
+        }
+        100% {
+            opacity: 0;
+            filter: blur(.5em);
+            transform: scale(1);
+        }
+    }
+
+    & div:nth-child(-n+4) img {
+        top: unset;
+        bottom: 0;
     }
 
     body.is-home & {
         // pointer-events: all;
         z-index: 10;
-        img {
+        div {
             -webkit-user-select: none;  /* Chrome all / Safari all */
             -moz-user-select: none;     /* Firefox all */
             -ms-user-select: none;      /* IE 10+ */

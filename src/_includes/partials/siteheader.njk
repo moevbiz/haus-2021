@@ -12,3 +12,16 @@
   {% include "partials/langswitch.njk" %}
 </header>
 <div id="lettergrid"></div>
+<svg id="filters">
+	<defs>
+		<filter id="threshold">
+			<!-- Basically just a threshold effect - pixels with a high enough opacity are set to full opacity, and all other pixels are set to completely transparent. -->
+			<feColorMatrix in="SourceGraphic"
+					type="matrix"
+					values="1 0 0 0 0
+									0 1 0 0 0
+									0 0 1 0 0
+									0 0 0 255 -140" />
+		</filter>
+	</defs>
+</svg>
