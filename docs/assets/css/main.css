@@ -389,6 +389,9 @@ html.is-animating .transition-fade {
 }
 #lettergrid img {
   position: absolute;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 #lettergrid img.fading-in {
   -webkit-animation: fadeIn 1s ease-out;
@@ -404,58 +407,48 @@ html.is-animating .transition-fade {
   0% {
     opacity: 0;
     filter: blur(0.5em);
-    transform: scale(1);
   }
   25% {
     opacity: 0;
     filter: blur(0.5em);
-    transform: scale(1);
   }
   100% {
     opacity: 1;
     filter: blur(0);
-    transform: scale(1);
   }
 }
 @keyframes fadeIn {
   0% {
     opacity: 0;
     filter: blur(0.5em);
-    transform: scale(1);
   }
   25% {
     opacity: 0;
     filter: blur(0.5em);
-    transform: scale(1);
   }
   100% {
     opacity: 1;
     filter: blur(0);
-    transform: scale(1);
   }
 }
 @-webkit-keyframes fadeOut {
   0% {
     opacity: 1;
     filter: blur(0);
-    transform: scale(1);
   }
   100% {
     opacity: 0;
     filter: blur(0.5em);
-    transform: scale(1);
   }
 }
 @keyframes fadeOut {
   0% {
     opacity: 1;
     filter: blur(0);
-    transform: scale(1);
   }
   100% {
     opacity: 0;
     filter: blur(0.5em);
-    transform: scale(1);
   }
 }
 #lettergrid div:nth-child(-n+4) img {
