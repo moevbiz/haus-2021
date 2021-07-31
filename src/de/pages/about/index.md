@@ -37,3 +37,6 @@ Kunstverein Haus
 Große Neugasse 44/2
 1040 Wien, AT
 ZVR: 1906466059
+
+![Haus 2020, Kerstin von Gabain, Photo by Marie Haefner](/assets/images/haus_2020_kerstin_marie.jpg)
+*Haus 2020 – Kerstin von Gabain &copy; Marie Haefner*

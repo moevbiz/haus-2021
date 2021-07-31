@@ -15,7 +15,7 @@ Haus is a collaborative, non-commercial exhibition format that brings together a
 
 The ideas of Haus are rooted in the independent scene: non-profit and artist-run exhibition spaces, who demonstrate a flexible and intimate mode of collaborating within non-hierarchical structures. The aim is to provide a low-threshold mediation platform for contemporary artistic production and the surrounding discourse and community.
 
-After a fruitful first edition in September 2020, counting roughly 50 participants from 15 countries as well as 1,000 visitors in total, we are now looking forward to realizing the second edition of the project as a catalyst to forge new alliances, friendships, and strategies of collaboration. Same as last year, participants are invited to apply with a proposal during an Open Call. 
+After a fruitful first edition in September 2020, counting roughly 50 participants from 15 countries as well as 1,000 visitors in total, we are now looking forward to realizing the second edition of the project as a catalyst to forge new alliances, friendships, and strategies of collaboration. Same as last year, participants are invited to apply with a proposal during an <a href="open-call">Open Call</a>. 
 
 ## Team
 
@@ -40,4 +40,5 @@ Große Neugasse 44/2
 1040 Wien, AT
 ZVR: 1906466059
 
-
+![Haus 2020, Kerstin von Gabain, Photo by Marie Haefner](/assets/images/haus_2020_kerstin_marie.jpg)
+*Haus 2020 – Kerstin von Gabain &copy; Marie Haefner*

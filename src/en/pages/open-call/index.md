@@ -24,7 +24,8 @@ The open call is directed towards artists, curators, researchers, commercial gal
 
 Haus is conceived as a non-commercial and collaborative exhibition format that brings together a variety of artistic, curatorial, and discursive interventions under one roof. By creating an experimental platform where different exhibition strategies, structures, and formats meet, the project is envisioned as a tool for exploring new ideas for showcasing artworks and accompanying formats.
 
-![Location of Haus 2021](/assets/images/location/IMG_9300.png)
+![Location of Haus 2021](/assets/images/location/IMG_9300.png){.large}
+*Location of Haus 2021*
 
 After a fruitful first edition in September 2020, we are now looking forward to realizing the second edition of the project as a catalyst to forge new alliances, friendships, and strategies of collaboration.
 
@@ -42,7 +43,8 @@ All submitted proposals will be taken into careful consideration. Please note th
 
 The second edition of Haus will take place in the 10th district of Vienna (Favoriten), in a former wire rope factory (Felten & Guilleaume, active in Vienna from 1893 onwards) and an adjacent allotment plot encompassing a handful of small-scale houses, located next to a highway. 
 
-![Location of Haus 2021](/assets/images/location/IMG_9290.png)
+![Location of Haus 2021](/assets/images/location/IMG_9290.png){.large}
+*Location of Haus 2021*
 
 Favoriten is the most populous district of Vienna. It comprises a residential area, composed of both older buildings and a large number of municipal housing complexes, as well as distinct industrial and recreational areas. 
 
@@ -65,7 +67,8 @@ Please note that the conditions of the respective spaces may vary. Haus provides
 
 - Haus will gladly provide letters of support or similar documents for confirmed participants to assist their applications for external grants covering travel, accommodation, production, or other expenses.
 
-![Location of Haus 2021](/assets/images/location/IMG_9256.png)
+![Location of Haus 2021](/assets/images/location/IMG_9256.png){.large}
+*Location of Haus 2021*
 
 
 ## Submission

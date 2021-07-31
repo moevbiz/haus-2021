@@ -23,7 +23,8 @@ Der Open Call richtet sich an Künstler:innen, Kurator:innen, Researcher:innen, 
 
 Haus versteht sich als nichtkommerzielles und kollaboratives Ausstellungsformat, das eine Vielzahl künstlerischer, kuratorischer und diskursiver Interventionen unter einem Dach vereint. Als experimentelle Plattform, auf der sich verschiedene Ausstellungsstrategien, -strukturen und -formate treffen, soll das Projekt Möglichkeitsräume zur Erforschung neuer Ideen für die Präsentation von Kunstwerken und begleitenden Formaten eröffnen.
 
-![Location of Haus 2021](/assets/images/location/IMG_9300.png)
+![Ausstellungsort Haus 2021](/assets/images/location/IMG_9300.png){.large}
+*Ausstellungsort Haus 2021*
 
 Nach einer erfolgreichen ersten Ausgabe im September 2020 freuen wir uns nun darauf, die zweite Ausgabe des Projekts als Ausgangspunkt für neue Allianzen, Freundschaften und kollaborative Strategien zu realisieren.
 
@@ -40,7 +41,8 @@ Alle eingereichten Projektideen werden dabei sorgsam berücksichtigt. Die Teilne
 
 Die zweite Edition von Haus wird im 10. Wiener Gemeindebezirk (Favoriten) in einer ehemaligen Drahtseilfabrik (Felten & Guilleaume, aktiv ab 1893) sowie einem angrenzenden Schrebergartengrundstück stattfinden.
 
-![Location of Haus 2021](/assets/images/location/IMG_9290.png)
+![Ausstellungsort Haus 2021](/assets/images/location/IMG_9290.png){.large}
+*Ausstellungsort Haus 2021*
 
 Favoriten ist der bevölkerungsreichste Bezirk Wiens. Im Bezirk befinden sich in erster Linie Wohnhäuser, darunter eine Vielzahl staatlicher Sozialbauten, sowie ausgeprägte Industrie- und Erholungsgebiete.
 
@@ -63,7 +65,8 @@ Der Zustand der Räume kann variieren. Haus stellt die grundlegende Infrastruktu
 
 - Gerne stellen wir im Namen von Haus Unterstützungsschreiben oder ähnliche Dokumente aus, um bestätigten Teilnehmer:innen ein eventuelles Ansuchen von externen Fördermitteln für Reisekosten, Unterkunft, Produktionskosten oder anderen Ausgaben zu erleichtern.
 
-![Location of Haus 2021](/assets/images/location/IMG_9256.png)
+![Ausstellungsort Haus 2021](/assets/images/location/IMG_9256.png){.large}
+*Ausstellungsort Haus 2021*
 
 
 ## Einreichung

@@ -153,13 +153,17 @@
         background: $white;
         border: 1px solid $black;
         margin-top: -1px;
-        margin-right: -1px;
+        margin-left: -1px;
         display: flex;
         justify-content: center;
         align-items: center;
         height: 60px;
         min-width: 60px;
         padding: 0 1rem;
+
+        &:last-child {
+            margin-right: -1px;
+        }
 
         &.is-active {
             background: $black;
@@ -189,7 +193,7 @@
     padding-top: 3rem;
     margin-top: 3rem;
     display: grid;
-    grid-template-columns: 1fr 3fr;
+    font-family: monospace;
 
     button[type="submit"] {
         margin-left: -1px;
@@ -246,4 +250,21 @@
     border: 1px solid;
     padding: .5em;
     margin: .5em 0;
+}
+
+.c-article {
+    img {
+        &.large {
+            margin-left: -1rem;
+            width: 100vw;
+            max-width: 1200px;
+        }
+        ~em {
+            font-family: monospace;
+            font-size: .85rem;
+            display: block;
+            margin-top: -1rem;
+            opacity: .8;
+        }
+    }
 }
