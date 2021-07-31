@@ -41,6 +41,12 @@
     li {
         display: list-item;
         list-style-type: disc;
-        margin-bottom: 1rem;
+        margin-bottom: .3rem;
     }
 }
+
+// @counter-style happy-list {
+//     system: cyclic;
+//     symbols: "🏡" "🏠" "🏘" "🏚" "🪴" "🌳" "🌻" ;
+//     suffix: "  ";
+// }

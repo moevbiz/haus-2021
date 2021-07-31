@@ -665,7 +665,7 @@ body.is-home #lettergrid div {
 .t-text-body li {
   display: list-item;
   list-style-type: disc;
-  margin-bottom: 1rem;
+  margin-bottom: 0.3rem;
 }
 
 .p-home-center-text {
