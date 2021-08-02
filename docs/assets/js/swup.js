@@ -1,6 +1,8 @@
 import Swup from 'swup';
 import SwupPreloadPlugin from '@swup/preload-plugin';
 import SwupHtmlLangPlugin from '@mashvp/swup-html-lang-plugin';
+import SwupScrollPlugin from '@swup/scroll-plugin';
+
 // import SwupSlideTheme from '@swup/slide-theme';
 
 // export const updateMenu = (destination) => {
@@ -19,6 +21,7 @@ export const initSwup = () => {
         plugins: [
             new SwupPreloadPlugin(), 
             new SwupHtmlLangPlugin(),
+            new SwupScrollPlugin(),
             // new SwupSlideTheme()
         ],
         containers: ['#swup', '.c-nav:not(.c-menu-button-container)']

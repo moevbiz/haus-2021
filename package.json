@@ -31,6 +31,7 @@
   "dependencies": {
     "@mashvp/swup-html-lang-plugin": "^1.1.0",
     "@swup/preload-plugin": "^1.0.3",
+    "@swup/scroll-plugin": "^1.1.0",
     "@swup/slide-theme": "^1.0.5",
     "line-awesome": "^1.3.0",
     "markdown-it": "^12.0.4",
