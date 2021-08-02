@@ -5,6 +5,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require('markdown-it-attrs');
 const markdownItFigure = require('markdown-it-figure');
 const lazy_loading = require('markdown-it-image-lazy-loading');
+const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster');
 const pageAssetsPlugin = require('eleventy-plugin-page-assets');
 
 
@@ -66,6 +67,20 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('src/CNAME');
     // copy files in page directories
     // eleventyConfig.addPassthroughCopy('src/*/pages/*/*.{jpg,jpeg,png,gif,svg,kmz,zip,pdf,css}');
+
+    // cache buster will unfortunately try to run on the favicon. disabled for now.
+    // // cache buster
+    // const cacheBusterOptions = {
+    //     outputDirectory: "docs",
+    // };
+
+    // // ref the context
+    // let env = process.env.ELEVENTY_ENV;
+
+    // // only run cache buster in prod
+    // if (env == 'prod') {
+    //     eleventyConfig.addPlugin(cacheBuster(cacheBusterOptions));
+    // }
 
     // Base config
     return {
