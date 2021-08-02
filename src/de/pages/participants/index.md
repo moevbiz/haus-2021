@@ -20,8 +20,8 @@ eleventyNavigation:
 - Art Center Ongoing *mit Atushi Yamamoto, Maiko Jinushi, und Tomohiro Nagahata*
 ## B
 - Barbara Kapusta & Steph Holl-Trieu
-- Bartholomaeus Waechter
-- Belsunce Projects *mit Aurilian*
+- Bartholomaeus Wächter
+- Belsunce Projects *mit Aurilian* 
 - Bianca Phos
 - Body Archive Project *mit Mathilde Agius*
 - bologna.cc *mit Helena Tan*
@@ -57,7 +57,6 @@ eleventyNavigation:
 - Juan Vera
 ## K
 - Kea Bolenz & Philipp Zöhrer
-- Kirila Cvetkovska & Megan Hoetger
 ## L
 - Linda Lerseth
 - Lisa Großkopf
@@ -77,7 +76,7 @@ eleventyNavigation:
 - PK//K
 - Plymouth Rock *mit Semuel Lala*
 - Polana Institute *mit Hanna Krzysztofiak*
-- Play (Poor Score) initiated by Jackie Grassmann, Leonie Huber, Simon Nagy *mit contributions by Gleb Amankulov, Viktoria Bayer, Albin Bergström, Igor Blomberg Tranaeus, Nana Dahlin, Gabriele Edlbauer, Bar Hasnes, Julia Goodman, Hanna Kucera, Irina Lotarevich, Valerie Ludwig, Cecilie Norgaard, Miriam Stoney, Lia Sudermann, Inga Charlotte Thiele, Andrea Zabric, Julia Znoj*
+- Play (Poor Score) initiated by Jackie Grassmann, Leonie Huber, Simon Nagy, *mit Beiträgen von Gleb Amankulov, Viktoria Bayer, Albin Bergström, Igor Blomberg Tranaeus, Nana Dahlin, Gabriele Edlbauer, Bar Hasnes, Julia Goodman, Hanna Kucera, Irina Lotarevich, Valerie Ludwig, Cecilie Nørgaard, Miriam Stoney, Lia Sudermann, Inga Charlotte Thiele, Andrea Zabric, Julia Znoj*
 ## R
 - Robin Waart
 ## S
@@ -95,4 +94,5 @@ eleventyNavigation:
 - Veronika Eberhart
 - Vika Prokopaviciute
 ## Z
+- Zone Collective (Kirila Cvetkovska und Megan Hoetger)
 - Ztscrpt

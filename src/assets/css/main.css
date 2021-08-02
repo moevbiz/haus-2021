@@ -653,6 +653,12 @@ body.is-home #lettergrid div {
   width: calc(100vw - 2rem);
   max-width: 1200px;
 }
+@media (max-width: 600px) {
+  .c-article img.large {
+    margin-left: 0;
+    width: 100%;
+  }
+}
 .c-article img ~ em {
   font-family: monospace;
   font-size: 0.85rem;

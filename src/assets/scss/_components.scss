@@ -277,6 +277,10 @@
             margin-left: -250px;
             width: calc(100vw - 2rem);
             max-width: 1200px;
+            @media (max-width: $bp-mob) {
+                margin-left: 0;
+                width: 100%;
+            }
         }
         ~em {
             font-family: monospace;
