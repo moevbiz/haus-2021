@@ -651,6 +651,14 @@ body.is-home #lettergrid div {
   z-index: 3000;
   position: absolute;
 }
+@media (max-width: 600px) {
+  .c-headline-image-container {
+    top: -50px;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}
 .c-headline-image-container.is-animating {
   filter: url(#threshold);
 }
@@ -661,14 +669,6 @@ body.is-home #lettergrid div {
 .c-headline-image-container ~ article h2:first-of-type {
   height: 0;
   opacity: 0;
-}
-@media (max-width: 600px) {
-  .c-headline-image {
-    top: -50px;
-    left: 0;
-    width: 100%;
-    max-width: 100%;
-  }
 }
 
 .c-button {

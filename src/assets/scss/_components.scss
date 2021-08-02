@@ -259,6 +259,13 @@
         max-width: 700px;
         z-index: 3000;
 
+        @media (max-width: $bp-mob) {
+            top: -50px;
+            left: 0;
+            width: 100%;
+            max-width: 100%;
+        }
+
         &.is-animating {
             filter: url(#threshold);
         }
@@ -273,13 +280,6 @@
             height: 0;
             opacity: 0;
         }
-    }
-
-    @media (max-width: $bp-mob) {
-        top: -50px;
-        left: 0;
-        width: 100%;
-        max-width: 100%;
     }
 }
 
