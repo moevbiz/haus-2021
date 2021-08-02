@@ -1,3 +1,44 @@
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        filter: blur(.5em);
+    }
+    25% {
+        opacity: 0;
+        filter: blur(.5em);
+    }
+    100% {
+        opacity: 1;
+        filter: blur(0);
+    }
+}
+
+@keyframes fadeInHeadline {
+    0% {
+        opacity: 0;
+        filter: blur(.5em);
+    }
+    45% {
+        opacity: 1;
+        filter: blur(.3em);
+    }
+    100% {
+        opacity: 1;
+        filter: blur(0);
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+        filter: blur(0);
+    }
+    100% {
+        opacity: 0;
+        filter: blur(.5em);
+    }
+}
+
 #lettergrid {
     top: 0;
     left: 0;
@@ -50,32 +91,6 @@
         &.fading-out {
             animation: fadeOut 1s ease-in;
             pointer-events: none;
-        }
-    }
-
-    @keyframes fadeIn {
-        0% {
-            opacity: 0;
-            filter: blur(.5em);
-        }
-        25% {
-            opacity: 0;
-            filter: blur(.5em);
-        }
-        100% {
-            opacity: 1;
-            filter: blur(0);
-        }
-    }
-
-    @keyframes fadeOut {
-        0% {
-            opacity: 1;
-            filter: blur(0);
-        }
-        100% {
-            opacity: 0;
-            filter: blur(.5em);
         }
     }
 
@@ -231,22 +246,33 @@
 }
 
 .c-headline-image {
-    position: absolute;
-    margin: 1rem 0;
-    top: -70px;
-    left: -20px;
-    width: calc(100vw - 250px - 2rem);
-    max-width: 700px;
-    z-index: 3000;
-    pointer-events: none;
 
-    ~ article h1:first-of-type {
-        height: 0;
-        opacity: 0;
-    }
-    ~ article h2:first-of-type {
-        height: 0;
-        opacity: 0;
+    animation: fadeInHeadline .5s ease-out;
+
+    &-container {
+        pointer-events: none;
+        position: absolute;
+        margin: 1rem 0;
+        top: -70px;
+        left: -20px;
+        width: calc(100vw - 250px - 2rem);
+        max-width: 700px;
+        z-index: 3000;
+
+        &.is-animating {
+            filter: url(#threshold);
+        }
+
+        position: absolute;
+
+        ~ article h1:first-of-type {
+            height: 0;
+            opacity: 0;
+        }
+        ~ article h2:first-of-type {
+            height: 0;
+            opacity: 0;
+        }
     }
 
     @media (max-width: $bp-mob) {

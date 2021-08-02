@@ -51,6 +51,13 @@ const init = () => {
     } else {
         document.body.classList.remove('is-home');
     }
+
+    if (document.querySelector('.c-headline-image-container')) {
+        document.querySelector('.c-headline-image-container').classList.add('is-animating');
+        window.setTimeout(() => {
+            document.querySelector('.c-headline-image-container').classList.remove('is-animating')
+        }, 500)
+    }
 }
 
 const unload = () => {

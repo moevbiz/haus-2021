@@ -7,7 +7,9 @@
     <div clas="notoc"></div>
     {% endif %}
     <div class="t-text-body">
-        <img class="c-headline-image" src="{{ headlineImage }}">
+        <div class="c-headline-image-container">
+            <img class="c-headline-image" src="{{ headlineImage }}">
+        </div>
         <article class="c-article">
         {{ content | safe }}
         </article>

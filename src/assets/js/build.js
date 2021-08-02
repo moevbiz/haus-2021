@@ -668,6 +668,13 @@ var init = function init() {
   } else {
     document.body.classList.remove('is-home');
   }
+
+  if (document.querySelector('.c-headline-image-container')) {
+    document.querySelector('.c-headline-image-container').classList.add('is-animating');
+    window.setTimeout(function () {
+      document.querySelector('.c-headline-image-container').classList.remove('is-animating');
+    }, 500);
+  }
 };
 
 var unload = function unload() {
