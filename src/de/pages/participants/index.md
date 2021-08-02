@@ -17,43 +17,43 @@ eleventyNavigation:
 - Andreas Fogarasi
 - Anna Hostek
 - Anna Paul
-- Art Center Ongoing *with Atushi Yamamoto, Maiko Jinushi, and Tomohiro Nagahata*
+- Art Center Ongoing *mit Atushi Yamamoto, Maiko Jinushi, und Tomohiro Nagahata*
 ## B
 - Barbara Kapusta & Steph Holl-Trieu
 - Bartholomaeus Waechter
-- Belsunce Projects *with Aurilian*
+- Belsunce Projects *mit Aurilian*
 - Bianca Phos
-- Body Archive Project *with Mathilde Agius*
-- bologna.cc *with Helena Tan*
+- Body Archive Project *mit Mathilde Agius*
+- bologna.cc *mit Helena Tan*
 - Brishty Alam
 ## C
 - caner teker
 - Cecilie Nørgaard
-- Center for Experimental Lectures *with Kamron Hazel and Nat Marcus*
+- Center for Experimental Lectures *mit Kamron Hazel und Nat Marcus*
 - Christopher Mayer
 ## D
 - Demian Kern & Rachel Fäth
 ## E
 - Ei Ozawa
 - Emma Carlén & Nana Dahlin
-- Enxhi Memethi, Felix Krapp, and Merve Ceylan
+- Enxhi Memethi, Felix Krapp, und Merve Ceylan
 - Eva Seiler
 - Ezra Šimek
 ## F
 - Florian Hofer
 - Florian Mayr
 ## G
-- Ginny on Frederick *with Angélique Heidler*
+- Ginny on Frederick *mit Angélique Heidler*
 ## H
 - Helmut Heiss
 - Hui Ye
 ## I
 - Igor Blomberg Tranaeus
-- Intersticio *with Lucia Bayon & Nora Aurrekoetxea*
+- Intersticio *mit Lucia Bayon & Nora Aurrekoetxea*
 ## J
 - Jan Erbelding
 - Joakim Martinussen
-- Jordan Derrien *with Clément Rodzielski, Hélène Fauquet, Jermaine Francis, Josephine Meckseper, Magnus Frederik Clausen, and Marie de Brugerolle*
+- Jordan Derrien *mit Clément Rodzielski, Hélène Fauquet, Jermaine Francis, Josephine Meckseper, Magnus Frederik Clausen, und Marie de Brugerolle*
 - Juan Vera
 ## K
 - Kea Bolenz & Philipp Zöhrer
@@ -66,8 +66,8 @@ eleventyNavigation:
 - Magdalena Stückler
 - Malte Zander
 - Marei Buhmann & Sarah Buhmann
-- maria mercedes *with Camilla Schielin, Julia Müllner, and Yoh Morishita*
-- Marijana Schneider, Mary Wild, and Melanie Ebenhoch
+- maria mercedes *mit Camilla Schielin, Julia Müllner, und Yoh Morishita*
+- Marijana Schneider, Mary Wild, und Melanie Ebenhoch
 - Michael Ray-Von
 - Minne Kersten
 - Miriam Steinmacher
@@ -75,9 +75,9 @@ eleventyNavigation:
 - Nishmi
 ## P
 - PK//K
-- Plymouth Rock *with Semuel Lala*
-- Polana Institute *with Hanna Krzysztofiak*
-- Play (Poor Score) initiated by Jackie Grassmann, Leonie Huber, Simon Nagy *with contributions by Gleb Amankulov, Viktoria Bayer, Albin Bergström, Igor Blomberg Tranaeus, Nana Dahlin, Gabriele Edlbauer, Bar Hasnes, Julia Goodman, Hanna Kucera, Irina Lotarevich, Valerie Ludwig, Cecilie Norgaard, Miriam Stoney, Lia Sudermann, Inga Charlotte Thiele, Andrea Zabric, Julia Znoj*
+- Plymouth Rock *mit Semuel Lala*
+- Polana Institute *mit Hanna Krzysztofiak*
+- Play (Poor Score) initiated by Jackie Grassmann, Leonie Huber, Simon Nagy *mit contributions by Gleb Amankulov, Viktoria Bayer, Albin Bergström, Igor Blomberg Tranaeus, Nana Dahlin, Gabriele Edlbauer, Bar Hasnes, Julia Goodman, Hanna Kucera, Irina Lotarevich, Valerie Ludwig, Cecilie Norgaard, Miriam Stoney, Lia Sudermann, Inga Charlotte Thiele, Andrea Zabric, Julia Znoj*
 ## R
 - Robin Waart
 ## S
