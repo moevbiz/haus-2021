@@ -112,6 +112,7 @@ a:not([class]) {
 img {
   max-width: 100%;
   max-height: 100%;
+  height: auto;
   display: block;
 }
 
@@ -663,7 +664,6 @@ body.is-home #lettergrid div {
   font-family: monospace;
   font-size: 0.85rem;
   display: block;
-  margin-top: -1rem;
   opacity: 0.8;
 }
 

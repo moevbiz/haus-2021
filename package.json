@@ -9,6 +9,7 @@
     "preview_output_directory": "docs/de/"
   },
   "scripts": {
+    "clean": "rm -rf docs",
     "dev": "ELEVENTY_ENV=development npx @11ty/eleventy --serve --quiet & mix watch",
     "build": "mix && ELEVENTY_ENV=prod npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve"
@@ -29,6 +30,7 @@
     "sass-loader": "^10.1.1"
   },
   "dependencies": {
+    "@11ty/eleventy-img": "^0.9.0",
     "@mashvp/swup-html-lang-plugin": "^1.1.0",
     "@swup/preload-plugin": "^1.0.3",
     "@swup/scroll-plugin": "^1.1.0",

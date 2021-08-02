@@ -4,6 +4,7 @@ translationKey: "open-call"
 layout: default
 toc: true
 headlineImage: /assets/images/headlines/open_call.svg
+templateEngineOverride: njk,md
 eleventyNavigation:
   key: Open Call
   locale: de
@@ -21,8 +22,10 @@ Haus versteht sich als nichtkommerzielles und kollaboratives Ausstellungsformat,
 
 Nach einer erfolgreichen ersten Ausgabe im September 2020 freuen wir uns nun darauf, die zweite Ausgabe des Projekts als Ausgangspunkt für neue Allianzen, Freundschaften und kollaborative Strategien zu realisieren.
 
-![Ausstellungsort Haus 2021](/assets/images/location/IMG_9300.png){.large}
-*Ausstellungsort Haus 2021*
+{% 
+image "./src/assets/images/location/IMG_9300.png", "Ausstellungsort Haus 2021", "(min-width: 600px) 600px, 100vw", "large" 
+%}
+<em>Ausstellungsort Haus 2021</em>
 
 ## Kriterien
 
@@ -37,8 +40,10 @@ Alle eingereichten Projektideen werden dabei sorgsam berücksichtigt. Die Teilne
 
 Die zweite Edition von Haus wird im 10. Wiener Gemeindebezirk (Favoriten) in einer ehemaligen Drahtseilfabrik (Felten & Guilleaume, aktiv ab 1893) sowie einem angrenzenden Schrebergartengrundstück stattfinden.
 
-![Ausstellungsort Haus 2021](/assets/images/location/IMG_9290.png){.large}
-*Ausstellungsort Haus 2021*
+{% 
+image "./src/assets/images/location/IMG_9290.png", "Ausstellungsort Haus 2021", "(min-width: 600px) 600px, 100vw", "large" 
+%}
+<em>Ausstellungsort Haus 2021</em>
 
 Favoriten ist der bevölkerungsreichste Bezirk Wiens. Im Bezirk befinden sich in erster Linie Wohnhäuser, darunter eine Vielzahl staatlicher Sozialbauten, sowie ausgeprägte Industrie- und Erholungsgebiete.
 
@@ -61,8 +66,10 @@ Der Zustand der Räume kann variieren. Haus stellt die grundlegende Infrastruktu
 
 - Gerne stellen wir im Namen von Haus Unterstützungsschreiben oder ähnliche Dokumente aus, um bestätigten Teilnehmer:innen ein eventuelles Ansuchen von externen Fördermitteln für Reisekosten, Unterkunft, Produktionskosten oder anderen Ausgaben zu erleichtern.
 
-![Ausstellungsort Haus 2021](/assets/images/location/IMG_9256.png){.large}
-*Ausstellungsort Haus 2021*
+{% 
+image "./src/assets/images/location/IMG_9256.png", "Ausstellungsort Haus 2021", "(min-width: 600px) 600px, 100vw", "large" 
+%}
+<em>Ausstellungsort Haus 2021</em>
 
 
 ## Einreichung

@@ -4,11 +4,31 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require('markdown-it-attrs');
-const markdownItFigure = require('markdown-it-figure');
+// const markdownItFigure = require('markdown-it-figure');
 const lazy_loading = require('markdown-it-image-lazy-loading');
 // const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster');
 const pageAssetsPlugin = require('eleventy-plugin-page-assets');
+const Image = require("@11ty/eleventy-img");
 
+async function imageShortcode(src, alt, sizes, cls = '') {
+    let metadata = await Image(src, {
+      widths: [600, 900, 1200, 1600],
+      formats: ["jpeg", "png"],
+      outputDir: "./docs/assets/img/",
+      urlPath: "/assets/img/"
+    });
+  
+    let imageAttributes = {
+      alt,
+      sizes,
+      class: cls,
+      loading: "lazy",
+      decoding: "async",
+    };
+  
+    // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+    return Image.generateHTML(metadata, imageAttributes);
+}
 
 module.exports = function(eleventyConfig) {
     // date filter (localized)
@@ -21,6 +41,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addShortcode("favicon", function(emoji) {
         return `<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${emoji}</text></svg>">`
     })
+
+    eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
     eleventyConfig.addFilter("bust", (url) => {
         const outputDir = 'docs';
