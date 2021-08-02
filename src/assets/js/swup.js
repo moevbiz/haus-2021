@@ -21,7 +21,9 @@ export const initSwup = () => {
         plugins: [
             new SwupPreloadPlugin(), 
             new SwupHtmlLangPlugin(),
-            new SwupScrollPlugin(),
+            new SwupScrollPlugin({
+                animateScroll: false,
+            }),
             // new SwupSlideTheme()
         ],
         containers: ['#swup', '.c-nav:not(.c-menu-button-container)']

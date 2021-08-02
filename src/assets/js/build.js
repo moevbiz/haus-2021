@@ -616,21 +616,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _toc__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./toc */ "./src/assets/js/toc.js");
 /* harmony import */ var tocbot__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! tocbot */ "./node_modules/tocbot/src/js/index.js");
 /* harmony import */ var tocbot__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(tocbot__WEBPACK_IMPORTED_MODULE_4__);
-// if (document.body.classList.contains('index')) {
-//     var lang = navigator.language || navigator.userLanguage;
-//     var title = document.querySelector('.js-title');
-//     var desc = document.querySelector('.js-desc');
-//     var advise = document.querySelector('.js-advise');
-//     if (lang === 'fr-FR') {
-//         title.textContent = "Entrée sur le site";
-//         desc.textContent = "Choisissez une langue ci-dessus";
-//         advise.textContent = "Vous pouvez l'importer et l'utiliser directement avec";
-//     } else {
-//         title.textContent = "Enter website";
-//         desc.textContent = "Choose language above";
-//         advise.textContent = "You can directly import it and use it with";
-//     }
-// }
 
 
 
@@ -885,7 +870,9 @@ __webpack_require__.r(__webpack_exports__);
 
 var initSwup = function initSwup() {
   var swup = new swup__WEBPACK_IMPORTED_MODULE_0__.default({
-    plugins: [new _swup_preload_plugin__WEBPACK_IMPORTED_MODULE_1__.default(), new _mashvp_swup_html_lang_plugin__WEBPACK_IMPORTED_MODULE_2__.default(), new _swup_scroll_plugin__WEBPACK_IMPORTED_MODULE_3__.default() // new SwupSlideTheme()
+    plugins: [new _swup_preload_plugin__WEBPACK_IMPORTED_MODULE_1__.default(), new _mashvp_swup_html_lang_plugin__WEBPACK_IMPORTED_MODULE_2__.default(), new _swup_scroll_plugin__WEBPACK_IMPORTED_MODULE_3__.default({
+      animateScroll: false
+    }) // new SwupSlideTheme()
     ],
     containers: ['#swup', '.c-nav:not(.c-menu-button-container)']
   });

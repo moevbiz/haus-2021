@@ -11,7 +11,7 @@
   "scripts": {
     "clean": "rm -rf docs",
     "dev": "ELEVENTY_ENV=development npx @11ty/eleventy --serve --quiet & mix watch",
-    "build": "mix && ELEVENTY_ENV=prod npx @11ty/eleventy",
+    "build": "mix --production && ELEVENTY_ENV=prod npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve"
   },
   "author": "",
