@@ -12,11 +12,7 @@ eleventyNavigation:
 
 ## Open Call
 
-----
-
-**⚠️ The open call has ended.**
-
-----
+**Please note: The open call has ended.**
 
 Haus is pleased to announce the open call for its second edition which will be taking place in Vienna from August 30 – September 5, 2021.
 
@@ -24,10 +20,10 @@ The open call is directed towards artists, curators, researchers, commercial gal
 
 Haus is conceived as a non-commercial and collaborative exhibition format that brings together a variety of artistic, curatorial, and discursive interventions under one roof. By creating an experimental platform where different exhibition strategies, structures, and formats meet, the project is envisioned as a tool for exploring new ideas for showcasing artworks and accompanying formats.
 
+After a fruitful first edition in September 2020, we are now looking forward to realizing the second edition of the project as a catalyst to forge new alliances, friendships, and strategies of collaboration.
+
 ![Location of Haus 2021](/assets/images/location/IMG_9300.png){.large}
 *Location of Haus 2021*
-
-After a fruitful first edition in September 2020, we are now looking forward to realizing the second edition of the project as a catalyst to forge new alliances, friendships, and strategies of collaboration.
 
 
 ## Criteria

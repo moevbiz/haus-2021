@@ -50,6 +50,9 @@ module.exports = function(eleventyConfig) {
     })
     .use(markdownItAttrs)
     .use(lazy_loading);
+
+    // require "https://" in front of mail to prevent i.e "bologna.cc" to turn into link
+    markdownLibrary.linkify.set({fuzzyLink: false});
     
     eleventyConfig.setLibrary("md", markdownLibrary);
 

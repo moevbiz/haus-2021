@@ -11,11 +11,7 @@ eleventyNavigation:
 
 ## Open Call
 
-----
-
-**⚠️ Der Open Call ist bereits vorbei.**
-
-----
+**Der Open Call ist bereits vorbei.**
 
 Wir freuen uns, den Open Call zur Teilnahme an der zweiten Ausgabe von Haus bekannt zu geben, welche von 30. August bis 5. September in Wien stattfinden wird.
 
@@ -23,10 +19,10 @@ Der Open Call richtet sich an Künstler:innen, Kurator:innen, Researcher:innen, 
 
 Haus versteht sich als nichtkommerzielles und kollaboratives Ausstellungsformat, das eine Vielzahl künstlerischer, kuratorischer und diskursiver Interventionen unter einem Dach vereint. Als experimentelle Plattform, auf der sich verschiedene Ausstellungsstrategien, -strukturen und -formate treffen, soll das Projekt Möglichkeitsräume zur Erforschung neuer Ideen für die Präsentation von Kunstwerken und begleitenden Formaten eröffnen.
 
+Nach einer erfolgreichen ersten Ausgabe im September 2020 freuen wir uns nun darauf, die zweite Ausgabe des Projekts als Ausgangspunkt für neue Allianzen, Freundschaften und kollaborative Strategien zu realisieren.
+
 ![Ausstellungsort Haus 2021](/assets/images/location/IMG_9300.png){.large}
 *Ausstellungsort Haus 2021*
-
-Nach einer erfolgreichen ersten Ausgabe im September 2020 freuen wir uns nun darauf, die zweite Ausgabe des Projekts als Ausgangspunkt für neue Allianzen, Freundschaften und kollaborative Strategien zu realisieren.
 
 ## Kriterien
 

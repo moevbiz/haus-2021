@@ -118,6 +118,7 @@
 }
 
 .c-menu-button {
+    margin-left: -1px;
     background: $white;
     border: 1px solid $black;
     display: flex;
@@ -230,18 +231,29 @@
 }
 
 .c-headline-image {
-    margin: 1rem 1rem;
-    max-width: 700px;
+    position: absolute;
+    margin: 1rem 0;
+    top: -70px;
+    left: -20px;
+    width: calc(100vw - 250px - 2rem);
+    max-width: 1000px;
     z-index: 3000;
     pointer-events: none;
 
-    + article h1:first-of-type {
+    ~ article h1:first-of-type {
         height: 0;
         opacity: 0;
     }
-    + article h2:first-of-type {
+    ~ article h2:first-of-type {
         height: 0;
         opacity: 0;
+    }
+
+    @media (max-width: $bp-mob) {
+        top: -50px;
+        left: 0;
+        width: 100%;
+        max-width: 100%;
     }
 }
 
@@ -253,10 +265,17 @@
 }
 
 .c-article {
+    margin-top: 20vw;
+    // border-top: 1px solid;
+
+    @media (max-width: $bp-mob) {
+        margin-top: 30vw;
+    }
+
     img {
         &.large {
-            margin-left: -1rem;
-            width: 100vw;
+            margin-left: -250px;
+            width: calc(100vw - 2rem);
             max-width: 1200px;
         }
         ~em {
