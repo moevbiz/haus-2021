@@ -282,11 +282,11 @@
                 width: 100%;
             }
         }
-        ~em {
-            font-family: monospace;
-            font-size: .85rem;
-            display: block;
-            opacity: .8;
-        }
+    }
+    picture ~ em, img ~ em {
+        font-family: monospace;
+        font-size: .85rem;
+        display: block;
+        opacity: .8;
     }
 }
