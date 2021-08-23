@@ -21,6 +21,8 @@ After a fruitful first edition in September 2020, counting roughly 50 participan
 
 Haus was founded in 2020 by Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Julius Pristauz, Johanna Thorell and Edin Zenun. The team is jointly managing the project and is supported by external advisors and helpers.
 
+![Haus Team: Fanny, Julius, Marie-Claire, Bruno, Edin, and Johanna in front of a brick wall](/assets/images/HAUS2021_MarieHaefner_web_01.jpg)
+*Haus Team – Fanny, Julius, Marie-Claire, Bruno, Edin, Johanna &copy; Marie Haefner*
 
 ## Jury
 

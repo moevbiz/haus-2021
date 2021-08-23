@@ -21,6 +21,9 @@ Nach einer erfolgreichen ersten Edition des Projekts im September 2020, zu der w
 
 Haus wurde 2020 von Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Julius Pristauz, Johanna Thorell und Edin Zenun als Kunstverein begründet. Das Team übernimmt gemeinschaftlich die Projektleitung und wird dabei von externen Berater:innen und Helfer:innen unterstützt.
 
+![Haus Team: Fanny, Julius, Marie-Claire, Bruno, Edin, und Johanna vor einem Backsteingemäuer](/assets/images/HAUS2021_MarieHaefner_web_01.jpg)
+*Haus Team – Fanny, Julius, Marie-Claire, Bruno, Edin, und Johanna &copy; Marie Haefner*
+
 ## Jury
 Francesca Gavin
 Jen Kratochvil

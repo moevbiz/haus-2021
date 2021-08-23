@@ -615,12 +615,18 @@ body.is-home #lettergrid div {
   width: 100%;
   height: 200px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
 }
 .c-footer #hausl img {
-  height: 100%;
-  width: auto;
+  height: auto;
+  width: 200px;
   padding: 1rem;
+}
+@media (max-width: 600px) {
+  .c-footer #hausl img {
+    width: 150px;
+  }
 }
 @media (max-width: 600px) {
   .c-footer {
