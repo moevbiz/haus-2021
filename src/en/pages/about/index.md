@@ -19,7 +19,7 @@ After a fruitful first edition in September 2020, counting roughly 50 participan
 
 ## Team
 
-Haus was founded in 2020 by Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Julius Pristauz, Johanna Thorell und Edin Zenun. The team is jointly managing the project and is supported by external advisors and helpers.
+Haus was founded in 2020 by Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Julius Pristauz, Johanna Thorell and Edin Zenun. The team is jointly managing the project and is supported by external advisors and helpers.
 
 
 ## Jury
