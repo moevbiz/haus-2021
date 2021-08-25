@@ -14,7 +14,7 @@ eleventyNavigation:
 Hier finden Sie alle Informationen für Ihren Besuch.
 
 ## Adresse
-Oststation am Kempelenpark, Quellenstraße 2a
+Oststation am Kempelenpark, Quellenstraße 2, 1100 Wien
 48.173026, 16.397688
 
 [Auf Google Maps anzeigen](https://www.google.com/maps/place/Oststation+am+Kempelenpark/@48.1729214,16.3959713,17z/data=!3m1!4b1!4m5!3m4!1s0x476da9cea2155d9f:0xdb561e37cd754e6!8m2!3d48.1729214!4d16.39816?hl=de-AT)
@@ -27,10 +27,10 @@ Montag, 30. August bis Sonntag, 5. September 2021
 
 ## Eintritt
 Der Eintritt ist gratis. 
-Es gelten die 3G-Regeln und es wird Contact Tracing durchgeführt. Lesen Sie mehr im Abschnitt "Gesundheit und Sicherheit" weiter unten.
+Es gelten die 3G-Regeln und es wird Contact Tracing durchgeführt. Lesen Sie mehr im Abschnitt "Gesundheit und Sicherheit".
 
 ## Zur Vorbereitung
-Es sind maximal 120 Besucher*innen zum selben Zeitpunkt in den Räumlichkeiten erlaubt. Auf unserem Instagram-Account [@haus.wien](https://www.instagram.com/haus.wien/) finden Sie Updates mit Informationen zur aktuellen Lage. 
+Es sind maximal 120 Besucher*innen zum selben Zeitpunkt in den Räumlichkeiten erlaubt. Auf unserem Instagram-Account ([@haus.wien](https://www.instagram.com/haus.wien/)) finden Sie Updates mit Informationen zur aktuellen Lage. 
 
 Das Betreten den Veranstaltungsortes erfolgt auf eigene Gefahr. Wir empfehlen festes Schuhwerk. 
 
@@ -40,8 +40,7 @@ Straßenbahn: 6, 11, D (Schrankenberggasse, Geiereckstraße), 5 Minuten zu Fuß
 Bus: 14A, 66A, 77A, 7A (Schrankenberggasse, Geiereckstraße), 5 Minuten zu Fuß
 S-Bahn: S7 (Geiselbergstraße), 10 Minuten zu Fuß
 
-
-Die Oststation ist Teil des größeren Gebäudekomplexes Am Kempelenpark (Quellenstraße 2). Der Hof kann direkt von Westen aus über die Quellenstraße oder von Norden aus über die Geiereckstraße betreten werden, indem man der Fußgänger:innenbrücke über die Bahngleise folgt (nicht barrierefrei - siehe "Barrierefreiheit" unten). Wir empfehlen, die genaue Lage auf einer Karte anzusehen.
+Die Oststation ist Teil des größeren Gebäudekomplexes Am Kempelenpark (Quellenstraße 2). Der Hof kann direkt von Westen aus über die Quellenstraße oder von Norden aus über die Geiereckstraße betreten werden, indem man der Fußgänger:innenbrücke über die Bahngleise folgt (nicht barrierefrei - siehe "Barrierefreiheit" unten). Wir schlagen vor, die genaue Lage auf einer Karte anzusehen.
 
 ## Hausregeln
 - Kein Rauchen in den Innenräumen.
@@ -62,7 +61,7 @@ Wir bedauern, dass wir den gesamten Veranstaltungsort nicht komplett barrierefre
 
 Ihre Gesundheit und Sicherheit sind für uns von großer Bedeutung. Neben den unten aufgeführten Maßnahmen gegen Covid-19 werden wir eine Reihe von Sicherheitsvorkehrungen treffen, wie z. B. eine Begrenzung der Besucherzahl in bestimmten Räumen. Wir bitten Sie, die Anweisungen des Personals und die entsprechende Beschilderung zu befolgen.
 
-Wir bemühen uns, die Besucher:innenströme auszugleichen. Bitte beachten Sie, dass maximal 120 Besucher:innen zu einem bestimmten Zeitpunkt in die Räumlichkeiten gelassen werden.
+Wir bemühen uns, die Besucher:innenströme auszugleichen. Bitte beachten Sie, dass maximal 120 Besucher:innen gleichzeitig in die Räumlichkeiten gelassen werden.
 
 Bitte haben Sie Verständnis dafür, dass wir nur geimpften und/oder negativ auf Covid-19 getesteten Personen Zutritt gewähren können. Bringen Sie Ihr Zertifikat und Ihren Ausweis mit.
 
