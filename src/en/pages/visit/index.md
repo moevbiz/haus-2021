@@ -13,7 +13,7 @@ eleventyNavigation:
 Please find all information regarding your visit below.
 
 ## Location
-Oststation am Kempelenpark, Quellenstraße 2
+Oststation am Kempelenpark, Quellenstraße 2, 1100 Vienna
 48.173026, 16.397688
 
 [Show on Google Maps](https://www.google.com/maps/place/Oststation+am+Kempelenpark/@48.1729214,16.3959713,17z/data=!3m1!4b1!4m5!3m4!1s0x476da9cea2155d9f:0xdb561e37cd754e6!8m2!3d48.1729214!4d16.39816?hl=de-AT)
@@ -30,7 +30,7 @@ Admission is free of charge.
 3G-Rules apply and contact tracing is carried out. Read more in the section “Health and Safety” below.
 
 ## Preparing your visit
-There will be a maximum of 120 visitors allowed inside the exhibition space at any given time – check our Instagram (@haus.wien) for timely updates on the current situation.
+There will be a maximum of 120 visitors allowed inside the exhibition space at any given time – check our Instagram ([@haus.wien](https://www.instagram.com/haus.wien/)) for timely updates on the current situation.
 
 Visitors enter the venue at their own risk. We recommend practical footwear.
 
