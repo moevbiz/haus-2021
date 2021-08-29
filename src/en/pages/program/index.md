@@ -13,41 +13,45 @@ eleventyNavigation:
 
 ## Wednesday, September 1
 
-15:00
-Barbara Kapusta & Steph Holl-Trieu: Reading Performance
+3 pm
+*Wien 100/x938 - x945 or: How the present loses its future to the past*, reading performance by Barbara Kapusta & Steph Holl-Trieu
 
-15:30
-Ezra Šimek: Performance lecture
+3:30 pm
+Performance by Ezra Šimek
 
-16:30
-Jan Erbelding: Reading
+4:30 pm
+*Gustav Landauer Fanboy Text*, reading by Jan Erbelding
 
-17:00
-Ezra Šimek: Sound Performance
+5 pm
+Performance by Ezra Šimek
 
-17:15
-Emma Carlén & Nana Dahlin: Concert
+5:15 pm
+*Lalangue*, concert/performance by Nana Dahlin
 
-17:45
-Barbara Kapusta & Steph Holl-Trieu: Reading performance
+5:45 pm
+*Wien 1100/x938 - x945 or: How the present loses its future to the past*, reading performance by Barbara Kapusta & Steph Holl-Trieu
 
 ## Friday, September 3
 
-15:30
-Emma Carlén & Nana Dahlin: Concert
+3:30 pm
+*Lalangue*, concert/performance by Nana Dahlin
 
-16:00
-maria mercedes: Dance
+4 pm
+*ballade, fluctuant setting*, performance by maria mercedes
 
-16:30
-The Center for Experimental Lectures: Kamron Hazel - Performance lecture
+4:30 pm
+Center for Experimental Lectures: Kamron Hazel and Nat Marcus
 
-17:15
-The Center for Experimental Lectures: Nat Marcus
+## Saturday, September 4
 
-## Sunday September 5
+2 pm
+*On Bathing Culture*, a wet talk with Anna Paul
 
-17:00
-maria mercedes: Dance
+## Sunday, September 5
+
+5 pm
+*ballade, fluctuant setting*, performance by maria mercedes
 
 ## Online
+
+coming soon
