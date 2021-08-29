@@ -17,13 +17,13 @@ eleventyNavigation:
 *Wien 1100/x938 - x945 or: How the present loses its future to the past*, Reading Performance von Barbara Kapusta & Steph Holl-Trieu
 
 15:30 
-Performance von Ezra Šimek
+*No offense, but*, Performance von Ezra Šimek
 
 16:30 
 *Gustav Landauer Fanboy Text*, Lesung von Jan Erbelding
 
 17:00
-Performance von Ezra Šimek
+*mentally I am here*, Performance von Ezra Šimek und Oliver Torr
 
 17:15 
 *Lalangue*, Konzert/Performance von Nana Dahlin
