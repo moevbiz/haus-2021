@@ -30,7 +30,7 @@ Admission is free of charge.
 3G-Rules apply and contact tracing is carried out. Read more in the section “Health and Safety” below.
 
 ## Preparing your visit
-There will be a maximum of 120 visitors allowed inside the exhibition space at any given time – check our Instagram ([@haus.wien](https://www.instagram.com/haus.wien/)) for timely updates on the current situation.
+There will be a maximum of 100 visitors allowed inside the exhibition space at any given time – check our Instagram ([@haus.wien](https://www.instagram.com/haus.wien/)) for timely updates on the current situation.
 
 Visitors enter the venue at their own risk. We recommend practical footwear.
 
@@ -60,7 +60,7 @@ We regret that we could not make the entire venue completely barrier-free. Aside
 ## Health and Safety
 Your health and safety are of great importance to us. Aside from the measures against Covid-19 listed below, we will be implementing a variety of safety precautions, such as a limit on the number of visitors inside certain spaces. We ask you to follow staff directions and signage in this regard.
 
-We are making efforts to balance the flow of visitors. Bear in mind that there will be a maximum of 120 visitors allowed inside the premises at any given time.
+We are making efforts to balance the flow of visitors. Bear in mind that there will be a maximum of 100 visitors allowed inside the premises at any given time.
 
 Please understand that we can grant entry only to those who are vaccinated and/or tested negative for Covid-19. Bring your certificate and ID along with you.
 

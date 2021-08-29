@@ -30,7 +30,7 @@ Der Eintritt ist gratis.
 Es gelten die 3G-Regeln und es wird Contact Tracing durchgeführt. Lesen Sie mehr im Abschnitt "Gesundheit und Sicherheit".
 
 ## Zur Vorbereitung
-Es sind maximal 120 Besucher*innen zum selben Zeitpunkt in den Räumlichkeiten erlaubt. Auf unserem Instagram-Account ([@haus.wien](https://www.instagram.com/haus.wien/)) finden Sie Updates mit Informationen zur aktuellen Lage. 
+Es sind maximal 100 Besucher*innen zum selben Zeitpunkt in den Räumlichkeiten erlaubt. Auf unserem Instagram-Account ([@haus.wien](https://www.instagram.com/haus.wien/)) finden Sie Updates mit Informationen zur aktuellen Lage. 
 
 Das Betreten den Veranstaltungsortes erfolgt auf eigene Gefahr. Wir empfehlen festes Schuhwerk. 
 
@@ -61,7 +61,7 @@ Wir bedauern, dass wir den gesamten Veranstaltungsort nicht komplett barrierefre
 
 Ihre Gesundheit und Sicherheit sind für uns von großer Bedeutung. Neben den unten aufgeführten Maßnahmen gegen Covid-19 werden wir eine Reihe von Sicherheitsvorkehrungen treffen, wie z. B. eine Begrenzung der Besucherzahl in bestimmten Räumen. Wir bitten Sie, die Anweisungen des Personals und die entsprechende Beschilderung zu befolgen.
 
-Wir bemühen uns, die Besucher:innenströme auszugleichen. Bitte beachten Sie, dass maximal 120 Besucher:innen gleichzeitig in die Räumlichkeiten gelassen werden.
+Wir bemühen uns, die Besucher:innenströme auszugleichen. Bitte beachten Sie, dass maximal 100 Besucher:innen gleichzeitig in die Räumlichkeiten gelassen werden.
 
 Bitte haben Sie Verständnis dafür, dass wir nur geimpften und/oder negativ auf Covid-19 getesteten Personen Zutritt gewähren können. Bringen Sie Ihr Zertifikat und Ihren Ausweis mit.
 
