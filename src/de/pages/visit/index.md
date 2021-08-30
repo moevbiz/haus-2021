@@ -29,6 +29,10 @@ Montag, 30. August bis Sonntag, 5. September 2021
 Der Eintritt ist gratis. 
 Es gelten die 3G-Regeln und es wird Contact Tracing durchgeführt. Lesen Sie mehr im Abschnitt "Gesundheit und Sicherheit".
 
+[Download Lageplan](/assets/documents/floorplan.pdf)
+
+[Download Broschüre](/assets/documents/brochure.pdf)
+
 ## Zur Vorbereitung
 Es sind maximal 100 Besucher*innen zum selben Zeitpunkt in den Räumlichkeiten erlaubt. Auf unserem Instagram-Account ([@haus.wien](https://www.instagram.com/haus.wien/)) finden Sie Updates mit Informationen zur aktuellen Lage. 
 

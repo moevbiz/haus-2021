@@ -29,6 +29,10 @@ from 12–6pm
 Admission is free of charge. 
 3G-Rules apply and contact tracing is carried out. Read more in the section “Health and Safety” below.
 
+[Download floor plan](/assets/documents/floorplan.pdf)
+
+[Download brochure](/assets/documents/brochure.pdf)
+
 ## Preparing your visit
 There will be a maximum of 100 visitors allowed inside the exhibition space at any given time – check our Instagram ([@haus.wien](https://www.instagram.com/haus.wien/)) for timely updates on the current situation.
 
