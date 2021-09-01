@@ -54,4 +54,25 @@ Center for Experimental Lectures: Kamron Hazel and Nat Marcus
 
 ## Online
 
-coming soon
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1114505395&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+Ezra Simek X O.torr - Mentally I Am Here
+
+<br>
+<br>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1114504852&color=%23ff0000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+Anna Hostek: TIPSY TINA Chapter 06
+
+<br>
+<br>
+
+<figure>
+    <audio
+        controls
+        src="http://45.82.190.23:8000/ices">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+[Robin Waart: Evol/Love](http://evolloveat.robinwaart.nl/)
