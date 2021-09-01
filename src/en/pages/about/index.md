@@ -24,6 +24,20 @@ Haus was founded in 2020 by Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Ju
 ![Haus Team: Fanny, Julius, Marie-Claire, Bruno, Edin, and Johanna in front of a brick wall](/assets/images/HAUS2021_MarieHaefner_web_01.jpg)
 *Haus Team – Fanny, Julius, Marie-Claire, Bruno, Edin, Johanna &copy; Marie Haefner*
 
+## Staff
+
+Paul Ebhart
+Chris Izsák
+Alba Rastl
+Barbara Rurnggaldier
+Nari Sarmini
+Matas Sergijus Šatūnas
+Sophie Schagerl
+Felix Schwentner
+Sabīne Šnē
+Inga Charlotte Thiele
+Lera Weinrub
+
 ## Jury
 
 Francesca Gavin
@@ -34,6 +48,30 @@ Yaby (Beatriz Ortega Botas & Alberto Vallejo)
 ## Partners
 
 am Kempelenpark
+
+## Thank You
+
+AIL – Angewandte Innovation Lab
+Jean-Michel Gagnon
+Elisabeth Großschädl
+Marie Haefner
+Nima Heschmat
+Irmgard Hubauer
+Therese Kaiser
+Walter Klein
+KupaParis
+Sebastian Köck
+Manuel Carreon Lopez
+Mika Maruyama
+Christopher Mayer
+Flavio Palasciano
+Georg Petermichl
+Lucas Reisigl
+Johann Schoiswohl
+Moritz Stemshorn
+Sitzkultur Wien
+VBKÖ – Vereinigung bildender Künstlerinnen Österreichs
+Wirtschaftsagentur Wien
 
 ## Imprint
 

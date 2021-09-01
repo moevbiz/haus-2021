@@ -24,6 +24,20 @@ Haus wurde 2020 von Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Julius Pri
 ![Haus Team: Fanny, Julius, Marie-Claire, Bruno, Edin, und Johanna vor einem Backsteingemäuer](/assets/images/HAUS2021_MarieHaefner_web_01.jpg)
 *Haus Team – Fanny, Julius, Marie-Claire, Bruno, Edin, und Johanna &copy; Marie Haefner*
 
+## Staff
+
+Paul Ebhart
+Chris Izsák
+Alba Rastl
+Barbara Rurnggaldier
+Nari Sarmini
+Matas Sergijus Šatūnas
+Sophie Schagerl
+Felix Schwentner
+Sabīne Šnē
+Inga Charlotte Thiele
+Lera Weinrub
+
 ## Jury
 Francesca Gavin
 Jen Kratochvil
@@ -33,6 +47,30 @@ Yaby
 ## Partner
 
 am Kempelenpark
+
+## Dank an
+
+AIL – Angewandte Innovation Lab
+Jean-Michel Gagnon
+Elisabeth Großschädl
+Marie Haefner
+Nima Heschmat
+Irmgard Hubauer
+Therese Kaiser
+Walter Klein
+KupaParis
+Sebastian Köck
+Manuel Carreon Lopez
+Mika Maruyama
+Christopher Mayer
+Flavio Palasciano
+Georg Petermichl
+Lucas Reisigl
+Johann Schoiswohl
+Moritz Stemshorn
+Sitzkultur Wien
+VBKÖ – Vereinigung bildender Künstlerinnen Österreichs
+Wirtschaftsagentur Wien
 
 ## Imprint
 
