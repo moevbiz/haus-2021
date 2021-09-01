@@ -14,7 +14,7 @@ eleventyNavigation:
 ## Wednesday, September 1
 
 3 pm
-*Wien 100/x938 - x945 or: How the present loses its future to the past*, reading performance by Barbara Kapusta & Steph Holl-Trieu
+*Wien 1100/x938 - x945 or: How the present loses its future to the past*, reading performance by Barbara Kapusta & Steph Holl-Trieu
 
 3:30 pm
 *No offense, but*, performance by Ezra Šimek
