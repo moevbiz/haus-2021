@@ -17,12 +17,20 @@ Das Projekt sieht sich in der Tradition von non-profit und artist-run Ausstellun
 
 Nach einer erfolgreichen ersten Edition des Projekts im September 2020, zu der wir über 1.000 Besucher:innen sowie rund 50 Teilnehmer:innen aus 15 Ländern willkommen heißen durften, freuen wir uns, heuer die zweite Edition von Haus umzusetzen. Wie im Vorjahr können sich Teilnehmer:innen in einem Open Call für Projekte bewerben. 
 
-## Team
-
 Haus wurde 2020 von Marie-Claire Gagnon, Fanny Hauser, Bruno Mokross, Julius Pristauz, Johanna Thorell und Edin Zenun als Kunstverein begründet. Das Team übernimmt gemeinschaftlich die Projektleitung und wird dabei von externen Berater:innen und Helfer:innen unterstützt.
 
 ![Haus Team: Fanny, Julius, Marie-Claire, Bruno, Edin, und Johanna vor einem Backsteingemäuer](/assets/images/HAUS2021_MarieHaefner_web_01.jpg)
 *Haus Team – Fanny, Julius, Marie-Claire, Bruno, Edin, und Johanna &copy; Marie Haefner*
+
+## Team
+
+Marie-Claire Gagnon
+Fanny Hauser
+Bruno Mokross
+Julius Pristauz
+Sophia Stemshorn
+Johanna Thorell
+Edin Zenun
 
 ## Staff
 
@@ -31,6 +39,7 @@ Chris Izsák
 Alba Rastl
 Barbara Rurnggaldier
 Nari Sarmini
+Paul Seipel
 Matas Sergijus Šatūnas
 Sophie Schagerl
 Felix Schwentner
