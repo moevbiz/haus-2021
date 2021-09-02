@@ -49,8 +49,8 @@ Die Oststation ist Teil des größeren Gebäudekomplexes Am Kempelenpark (Quelle
 ## Hausregeln
 - Kein Rauchen in den Innenräumen.
 - Striktes Alkoholverbot.
-- Wir empfehlen in Innenräumen das Tragen einer Maske
-- Befolgen Sie die Anweisungen des Personals und die Beschilderungen vor Ort
+- Bitte tragen Sie in Innenräumen und während der Performances eine Maske.
+- Befolgen Sie die Anweisungen des Personals und die Beschilderungen vor Ort.
   
 ## Barrierefreiheit
 Der Veranstaltungsort besteht aus zwei getrennten Bereichen: Eine ehemalige Drahtseilfabrik ("Oststation") und eine angrenzende Kleingartenanlage. Um den Höhenunterschied zwischen den Parzellen zu überbrücken, wo diese unmittelbar aneinander anschließen, wurde eine provisorische Treppe gebaut. Es gibt jedoch auch eine ebenerdige Verbindung, die durch den Hintereingang in die Kleingartenanlage führt. 

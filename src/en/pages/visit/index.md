@@ -49,7 +49,7 @@ Oststation is part of the larger building complex Am Kempelenpark (Quellenstraß
 
 - No smoking indoors.
 - No alcohol on the premises.
-- Wear a mask in indoor spaces.
+- Wear a mask in indoor spaces and during performances.
 - Adhere to staff directions and signage.
 
 ## Accessibility
