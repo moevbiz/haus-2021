@@ -49,7 +49,7 @@ Die Oststation ist Teil des größeren Gebäudekomplexes Am Kempelenpark (Quelle
 ## Hausregeln
 - Kein Rauchen in den Innenräumen.
 - Striktes Alkoholverbot.
-- Bitte tragen Sie in Innenräumen und während der Performances eine Maske.
+- Bitte tragen Sie in Innenräumen und während der Performances eine Maske.
 - Befolgen Sie die Anweisungen des Personals und die Beschilderungen vor Ort.
   
 ## Barrierefreiheit
@@ -88,6 +88,6 @@ Sollte nach Ihrem Besuch eine Infektion mit Covid-19 nachgewiesen werden, wenden
 ## Weitere Informationen
 Wir möchten noch einmal darauf hinweisen, dass der Konsum von Alkohol innerhalb des Veranstaltungsortes nicht gestattet ist. Wasser, alkoholfreie Getränke und Kaffee stehen gratis zur Verfügung. Wir bieten keine Verpflegung vor Ort an - Sie können gerne Ihre eigenen Snacks mitbringen.
 
-Wir behalten uns das Recht vor, Personen, die gegen unsere Hausordnung oder Sicherheitsvorschriften verstoßen, den Zutritt zu verweigern oder zu entziehen, ohne dass es einer weiteren Erklärung bedarf. Wir danken Ihnen für Ihr Verständnis.
+Wir behalten uns das Recht vor, Personen, die gegen unsere Hausordnung oder Sicherheitsvorschriften verstoßen, den Zutritt zu verweigern oder zu entziehen, ohne dass es einer weiteren Erklärung bedarf. Danke für Ihr Verständnis.
 
 Wir freuen uns, Sie bei uns begrüßen zu dürfen! :~)
