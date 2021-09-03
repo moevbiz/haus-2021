@@ -22,9 +22,6 @@ eleventyNavigation:
 16:30 
 *Gustav Landauer Fanboy Text*, Lesung von Jan Erbelding
 
-17:00
-*mentally I am here*, Performance von Ezra Šimek und Oliver Torr
-
 17:15 
 *Lalangue*, Konzert/Performance von Nana Dahlin
 
@@ -45,7 +42,7 @@ Center for Experimental Lectures: Kamron Hazel und Nat Marcus
 ## Samstag, 4. September
 
 14:00
-*On Bathing Culture*, a wet talk mit Anna Paul
+*On Bathing Culture*, a wet talk mit Anna Paul and Philipp Furtenbach
 
 ## Sonntag, 5. September
 
