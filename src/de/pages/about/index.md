@@ -83,7 +83,7 @@ Wirtschaftsagentur Wien
 
 ## Imprint
 
-Kunstverein Haus
+Haus - Plattform zur Präsentation zeitgenössischer Kunst
 Große Neugasse 44/2
 1040 Wien, AT
 ZVR: 1906466059
