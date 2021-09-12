@@ -37,8 +37,9 @@ Edin Zenun
 Paul Ebhart
 Chris Izsák
 Alba Rastl
-Barbara Rurnggaldier
+Barbara Runggaldier
 Nari Sarmini
+Matthias Seier
 Paul Seipel
 Matas Sergijus Šatūnas
 Sophie Schagerl
