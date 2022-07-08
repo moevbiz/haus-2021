@@ -225,6 +225,12 @@
         flex-wrap: wrap;
         justify-content: flex-end;
 
+        a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
         img {
             height: auto;
             width: 200px;
